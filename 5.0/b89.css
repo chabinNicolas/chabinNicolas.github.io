@@ -1,0 +1,15 @@
+@font-face {
+    font-family: 'bancoregular';
+    src: url('font/banco-webfont.eot');
+    src: url('font/banco-webfont.eot?#iefix') format('embedded-opentype'),
+    url('font/banco-webfont.woff2') format('woff2'),
+    url('font/banco-webfont.woff') format('woff'),
+    url('font/banco-webfont.ttf') format('truetype'),
+    url('font/banco-webfont.svg#bancoregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+.titre{
+    font-family: bancoregular,sans-serif;
+    font-size: 30px;
+}
